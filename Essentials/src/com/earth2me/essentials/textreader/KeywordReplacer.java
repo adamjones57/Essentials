@@ -12,6 +12,7 @@ import org.bukkit.World;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
+import net.milkbowl.vault.chat.Chat;
 
 
 public class KeywordReplacer implements IText
